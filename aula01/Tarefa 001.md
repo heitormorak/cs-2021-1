@@ -38,11 +38,3 @@
 11. Você equipamento adequado para a implementação das atividades relacionadas à disciplina?
 	R: Sim.
 
-INSTRUÇÕES:
-1. Este é um arquivo no formato _markdown_ (.md), caso você precise de orientações a respeito da forma como editar este tipo de arquivo, acesso este [link](https://guides.github.com/features/mastering-markdown/);
-2. No seu repositório pessoal no _github_, na sua _branch_ pessoal, crie a pasta aula02;
-3. Adicione este arquivo no seu repositório, na pasta aula01;
-4. Responda ao questionário constante do arquivo;
-5. Remova esta Seção de INSTRUÇÕES, do arquivo respondido.
-6. Faça o _Commit_ do arquivo atualizado com suas respostas.
-7. Isso deve ser feito até as 23h59min do dia 28/07/2021.
