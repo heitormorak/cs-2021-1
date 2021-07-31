@@ -110,7 +110,7 @@ O comando mostra o resumo do git log. As opções -sne mostram o número de comm
 Mostra a url de cada conexão remota, nesse caso, a url do repositório jquery
 
 26. Um repositório Git pode ser etiquetado ao longo do tempo. Ou seja, _commits_ específicos podem ser “marcados” ou “etiquetados” para facilitar referências posteriores. Para listar todas as “etiquetas” (_tags_) estabelecidas para um dado repositório, qual comando deve ser executado?
-git tag 
+git tag.
 
 27. Caso um dato repositório retorne muitas “marcas” ou “etiquetas” para o comando **git tag**, como retornar apenas aquelas que atendem a determinado padrão, por exemplo, iniciadas por 2.0?
 git tag -l "2.0"
