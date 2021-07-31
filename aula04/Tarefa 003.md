@@ -3,7 +3,7 @@
 Responda as questões abaixo (exercite os comandos do git correspondentes). Lembre-se de que o “interessante” não é exatamente o conjunto de respostas, mas o processo de obtê-las e a experiência obtida com a execução dos comandos.
 
 
-1. Qual o comando para obter a versão instalada do Git?
+1. Qual o comando para obter a versão instalada do Git?<br />
 	git --version
 
 2. Qual o efeito da execução de cada um dos comandos abaixo?
