@@ -11,13 +11,13 @@ R: git --version
      R: exibe a lista de comandos disponível do Git e suas funções
 
   b. git help checkout
-R: abre a pagina local html que detalha o comando git checkout, usado para gerenciar as branchs do projeto.
+     R: abre a pagina local html que detalha o comando git checkout, usado para gerenciar as branchs do projeto.
 
   c. git help merge
-R: abre a pagina local html que detalha o camando merge, usado para mesclar alterações nos repositórios.
+     R: abre a pagina local html que detalha o camando merge, usado para mesclar alterações nos repositórios.
 
   d. git init
-R: cira um novo repositório Git
+     R: cira um novo repositório Git
 
   e. git add --all
 R: adiciona todos os arquivos do repositório para a staging area, incluindo os removidos.
@@ -35,7 +35,7 @@ R: renomeia o arquivo a.txt para b.txt. Para isso é necessário que o arquivo e
 R: reverte todas as alterações da stage e do diretório para o estado do commit especificado. 
 
   j. git log -27
-R: exibe o log dos últimos 27 commits
+R: exibe o log dos últimos 27 commits.
 
 3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo?
 R: Para acrescentar as mudanças ao próximo commit utilizamos o comando git add. Para o commit, utilizamos git commit.
