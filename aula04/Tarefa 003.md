@@ -3,23 +3,23 @@
 Responda as questões abaixo (exercite os comandos do git correspondentes). Lembre-se de que o “interessante” não é exatamente o conjunto de respostas, mas o processo de obtê-las e a experiência obtida com a execução dos comandos.
 
 
-1. Qual o comando para obter a versão instalada do Git?<br />
+* 1. Qual o comando para obter a versão instalada do Git?<br /> *
 	git --version
 
-2. Qual o efeito da execução de cada um dos comandos abaixo?
-    a. git help<br />
+* 2. Qual o efeito da execução de cada um dos comandos abaixo? *
+    * a. git help<br /> *
         exibe a lista de comandos disponível do Git e suas funções
 
-    b. git help checkout<br />
+    * b. git help checkout<br /> *
        abre a pagina local html que detalha o comando git checkout, usado para gerenciar as branchs do projeto.
 
-    c. git help merge<br />
+    * c. git help merge<br /> *
 	   abre a pagina local html que detalha o camando merge, usado para mesclar alterações nos repositórios.
 
-    d. git init<br />
+    * d. git init<br /> *
 	    cria um novo repositório Git
 
-    e. git add --all<br />
+    * e. git add --all<br /> *
        adiciona todos os arquivos do repositório para a staging area, incluindo os removidos.
 
     f. git add -u<br />
