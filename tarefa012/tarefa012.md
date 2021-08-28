@@ -1,0 +1,9 @@
+
+# Como melhorar o gerenciamento de código fonte?
+  A principal atividade dos desenvolvedores é melhorar o produto de software, ou seja, alterar pequenas partes de códigos que já existem, atentendo as novas necessidades e funções que do sistema; além da exclusão daquelas obsoletas, mudança de tecnologias e demais alterações que são constantes já que o sistema reflete na demanda das organizações. 
+
+  Para que essas alterações sejam coesas ao resto do código e do sistema, é necessário gerencia-las, garantindo um bom funcionamento da aplicação como um todo. Por isso, são utilizados softwares que rastreiam as revisões do código, atribuindo um responsável e verificando se o código contém falhas. Essas práticas compõe o gerenciamento de código-fonte.
+
+  Com o gerenciamento do código-fonte é possível registrar toda alteração do código, que forma um histórico de mudanças; podem ser criados backups e retornar para versões anteriores; falhas e correções ocorrem mais rápido; o desenvolvimento fica mais rápido e organizado; os conflitos de mudanças são resolvidos mais facilmente. E para que esse controle seja aplicado, é necessário manter os códigos limpos, fáceis de serem compreendidos, o que pode ser obtido com softwares para análise estática. Também é necessário compartilhar as bibliotecas de desenvolvimento para que o código não precise ser reescrito e siga um padrão; usar branchs para que o desenvolvimento paralelo não afete a versão principal; automatizar as tarefas de rastreamento de falhas e análise das funcionalidades e agregações utilizando softwares que gerenciam o desenvolvimento, para se manter a precisão e qualidade da análise.
+
+  Particularmente, desconhecia as tarefas do gerenciamento de código, que vão além de criar uma rastreabilidade para as mudanças, o compartilhamento de bibliotecas e a automação de algumas atividades.
