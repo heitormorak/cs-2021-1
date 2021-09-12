@@ -13,4 +13,9 @@ public class Cachorro extends Animal {
         System.out.println("Eu corro");
     }
 
+    public Cachorro(String n, int i){
+        this.nome=n;
+        this.idade=i;
+    }
+
 }
