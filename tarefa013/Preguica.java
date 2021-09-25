@@ -13,5 +13,10 @@ public class Preguica extends Animal {
         System.out.println("Eu subo em árvores");
     }
 
+    public Preguica(String n, int i){
+        this.nome=n;
+        this.idade=i;
+    }
+
 }
 

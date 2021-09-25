@@ -13,5 +13,10 @@ public class Cavalo extends Animal {
         System.out.println("Eu corro");
     }
 
+    public Cavalo(String n, int i){
+        this.nome=n;
+        this.idade=i;
+    }
+
 }
 

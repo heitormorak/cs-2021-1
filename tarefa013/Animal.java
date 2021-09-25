@@ -13,6 +13,11 @@ public class Animal {
     int idade;
     String nome;
 
+    public Animal(String n, int i){
+        this.nome= n;
+        this.idade = i;
+    }
+
     //definindo os métodos/comportamentos da classe Animal
     public void display(){ System.out.println("\nSou um: " + this.getClass().getSimpleName());}
 
